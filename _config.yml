@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+layout: default
+markdown: kramdown
+kramdown:
+  toc_levels: 1..2
+title: "Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus"
+
