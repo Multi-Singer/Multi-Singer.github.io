@@ -199,7 +199,7 @@
 </table>
 
 # Data
-Researchers who are interested in applying for this dataset, please send an formal application email at help_multisinger@163.com. After passing through data preparation procedures, we will reply to each application in order.
+Researchers who are interested in applying for this dataset, please send an formal application email at help_multisinger@163.com. We will give you a reply with download link after we review it. Please use your organization's email address rather than a third party email address whenever possible.
 
 # Questions
 Please contact <a href="#">help_multisinger@163.com</a>
