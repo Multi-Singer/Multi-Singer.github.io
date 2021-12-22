@@ -35,7 +35,9 @@
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/singing/Test_seen_woman/SC_WaveRNN/11.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/singing/Test_seen_woman/ParallWaveGAN/11.wav" type="audio/wav"></audio></td>
             <td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/singing/Test_seen_woman/MelGAN/11.wav" type="audio/wav"></audio></td>
-            <<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/singing/Test_seen_woman/FMSing_total/11.wav" type="audio/wav"></audio></td>
+            <<td style="text-align: center"><audio controls style="width: 150px;"><source src="wav_for_demo/singing/Test_seen_woman/
+		    
+		    _total/11.wav" type="audio/wav"></audio></td>
         </tr>
     </tbody>
     <tbody>
@@ -92,7 +94,7 @@
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
-			<th style="text-align: center">FastSpeech2+FMSing</th>
+			<th style="text-align: center">FastSpeech2+Multi-Singer</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -110,7 +112,7 @@
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
-			<th style="text-align: center">FastSpeech2+FMSing</th>
+			<th style="text-align: center">FastSpeech2+Multi-Singer</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -128,7 +130,7 @@
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
-			<th style="text-align: center">FastSpeech2+FMSing</th>
+			<th style="text-align: center">FastSpeech2+Multi-Singer</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -146,7 +148,7 @@
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
-			<th style="text-align: center">FastSpeech2+FMSing</th>
+			<th style="text-align: center">FastSpeech2+Multi-Singer</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -165,7 +167,7 @@
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
-			<th style="text-align: center">FastSpeech2+FMSing</th>
+			<th style="text-align: center">FastSpeech2+Multi-Singer</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -185,7 +187,7 @@
 	<thead>
 		<tr>
 			<th style="text-align: center">Recording</th>
-			<th style="text-align: center">FastSpeech2+FMSing</th>
+			<th style="text-align: center">FastSpeech2+Multi-Singer</th>
 		</tr>
 	</thead>
 	<tbody>
