@@ -13,7 +13,7 @@ All users of the dataset must follow the [CC BY-NC-SA](https://creativecommons.o
 ---
 
 ## Download
-Researchers who are interested in applying for this dataset, please read the license above carefully and send an formal application email with your detail purpose and information about your school or orgnization to <help_multisinger@163.com>. 
+Researchers who are interested in applying for this dataset, please read the license above carefully and send an formal application email with your detail purpose and information about your school or orgnization to <help_multisinger@163.com>. We will give you a reply with download link after we review it. Please use your organization's email address rather than a third party email address whenever possible.
 
 
 
