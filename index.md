@@ -199,7 +199,7 @@
 </table>
 
 # Data
-Researchers who are interested in applying for this dataset, please send an formal application email at help_multisinger@163.com. We will give you a reply with download link after we review it. Please use your organization's email address rather than a third party email address whenever possible.
+We provide a [Google Drive share link](https://drive.google.com/file/d/1EofoZxvalgMjZqzUEuEdleHIZ6SHtNuK/view?usp=sharing) for all the applicants. Please note that anyone who downloads this dataset will be deemed to agree to the dataset sharing license.
 
 # Questions
 Please contact <a href="#">help_multisinger@163.com</a>
